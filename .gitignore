@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+
+# MacOSX file
+.DS_Store
+Thumbs.db
+
+# Temporal files
+temp
+
+# Deployment folder
+dist
+
+# Lock files
+package-lock.json
